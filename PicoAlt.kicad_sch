@@ -3444,7 +3444,7 @@
     (uuid 6b259622-36c2-4bda-9154-14bc2de13062)
     (property "Reference" "U2" (id 0) (at 67.6275 167.64 0))
     (property "Value" "W25Q128JVSIQ" (id 1) (at 67.6275 170.18 0))
-    (property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" (id 2) (at 62.865 179.07 0)
+    (property "Footprint" "PicoAlt:SOIC-8_3.9x4.9mm_P1.27mm_mod" (id 2) (at 62.865 179.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 62.865 179.07 0)
@@ -4402,7 +4402,7 @@
       (reference "U1") (unit 1) (value "AMS1117-3.3") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
     )
     (path "/6b259622-36c2-4bda-9154-14bc2de13062"
-      (reference "U2") (unit 1) (value "W25Q128JVSIQ") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+      (reference "U2") (unit 1) (value "W25Q128JVSIQ") (footprint "PicoAlt:SOIC-8_3.9x4.9mm_P1.27mm_mod")
     )
     (path "/fad21c40-788f-48ce-b290-9d267f63ec0a"
       (reference "U3") (unit 1) (value "RP2040") (footprint "Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm")
